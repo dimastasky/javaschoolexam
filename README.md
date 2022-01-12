@@ -12,7 +12,7 @@ The exam includes 3 tasks to be done: [Calculator](/tasks/Calculator.md), [Pyram
 ### Result ###
 
 * Author name : Leventsov Dmitriy
-* GitHub Actions: ![example workflow](https://github.com/dimastasky/javaschoolexam/actions/workflows/java_ci.yml/badge.svg?event=push)
+* GitHub Actions: [![example workflow](https://github.com/dimastasky/javaschoolexam/actions/workflows/java_ci.yml/badge.svg?event=push)](https://github.com/dimastasky/javaschoolexam)
 
 
 ### How to start?  ###
