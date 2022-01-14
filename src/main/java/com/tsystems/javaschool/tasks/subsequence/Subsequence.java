@@ -22,7 +22,7 @@ public class Subsequence {
                 return false; //FALSE When List X contains elements and List Y is Empty or Y size less than X size
             } else {
                 for(int iX = 0, iY = 0; iX < x.size(); iY++) {
-                    if (iY > y.size()-1) return false; //TRUE When List Y doesn't contain any element from List X
+                    if (iY > y.size()-1) return false; //FALSE When List Y doesn't contain any element from List X
                     if (x.get(iX).equals(y.get(iY))) iX++;
                 }
             }
